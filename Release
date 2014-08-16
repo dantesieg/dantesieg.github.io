@@ -1,0 +1,8 @@
+Origin: dantesieg
+Label: Repo
+Suite: stable #Don't touch
+Version: 1.0 #Don't touch
+Codename: ios #Don't touch
+Architectures: iphoneos-arm #Don't touch
+Components: main #Don't touch
+Description: My personal repo
