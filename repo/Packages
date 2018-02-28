@@ -31,19 +31,20 @@ Author: dantesieg <bahadirb@me.com>
 Name: ForceTouchToSleep
 
 Package: com.dantesieg.happ
-Version: 1.0-275+debug
+Version: 1.0-276+debug
 Architecture: iphoneos-arm
 Maintainer: dantesieg <bahadirb@me.com>
 Installed-Size: 288
 Depends: mobilesubstrate
-Filename: debs/com.dantesieg.happ_1.0-275+debug_iphoneos-arm.deb
-Size: 26000
-MD5sum: d970934a387a9e86980dc2e9fae2e87d
-SHA1: 45aa27a601ba3713e8d11fcd8d6ba37a141b809a
-SHA256: dda5f4321fa371cee197a2b94059321561df7207c9e89693f3a5708b3090b256
+Filename: debs/com.dantesieg.happ_1.0-276+debug_iphoneos-arm.deb
+Size: 26036
+MD5sum: a26064afbb8a9f51678ac941da6c6edd
+SHA1: f0a5220a48e68407355582337c248e2477f0d3df
+SHA256: 2e2a0dacc09e459e6fc0b695565a515ea2e7b3d8116d9ff2d7a803f22b0aa8a6
 Section: Tweaks
 Description: Taptic feedback for various actions.
 Author: dantesieg <bahadirb@me.com>
+Depiction: https://dantesieg.github.io/repo/depictions/?p=com.dantesieg.happ
 Name: Happ
 
 Package: com.dantesieg.paddock
