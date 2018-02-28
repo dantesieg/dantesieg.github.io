@@ -1,3 +1,67 @@
+Package: com.dantesieg.ducker
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: dantesieg <bahadirb@me.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs/com.dantesieg.ducker_0.0.1-6+debug_iphoneos-arm.deb
+Size: 7420
+MD5sum: 43071c2946528ac6020a5499ad66619c
+SHA1: 39a1f61bb2dd5861cec856bd2e7261a0b5bae989
+SHA256: cb6688e6d190b449c638fc47782e6da714a57ff9938589fdab4abf80f5d7a7b9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dantesieg <bahadirb@me.com>
+Name: Ducker
+
+Package: com.dantesieg.ftts
+Version: 0.0.1-175+debug
+Architecture: iphoneos-arm
+Maintainer: dantesieg <bahadirb@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: debs/com.dantesieg.ftts_0.0.1-175+debug_iphoneos-arm.deb
+Size: 12006
+MD5sum: 1a97cba8879fe22e2a0c238f3c950c7c
+SHA1: 52e0cb4ce53ff3f2f5a04b3219952d2d47c79547
+SHA256: ecf90529fac0bc57b6cff6bef8342029724f94e3d441387b30528aeadad3eb34
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dantesieg <bahadirb@me.com>
+Name: ForceTouchToSleep
+
+Package: com.dantesieg.happ
+Version: 1.0-275+debug
+Architecture: iphoneos-arm
+Maintainer: dantesieg <bahadirb@me.com>
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: debs/com.dantesieg.happ_1.0-275+debug_iphoneos-arm.deb
+Size: 26000
+MD5sum: d970934a387a9e86980dc2e9fae2e87d
+SHA1: 45aa27a601ba3713e8d11fcd8d6ba37a141b809a
+SHA256: dda5f4321fa371cee197a2b94059321561df7207c9e89693f3a5708b3090b256
+Section: Tweaks
+Description: Taptic feedback for various actions.
+Author: dantesieg <bahadirb@me.com>
+Name: Happ
+
+Package: com.dantesieg.paddock
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: dantesieg <bahadirb@me.com>
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: debs/com.dantesieg.paddock_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3830
+MD5sum: af8d4b94fcc4c070f43e954f70233f14
+SHA1: 39190e2445e19990b99735feda0874bb441a3d1a
+SHA256: c852909da5cdb9c259998713cdde9bd0b1dbc4857920a19ca261755c8bfe7ce5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dantesieg <bahadirb@me.com>
+Name: Paddock
+
 Package: com.dantesieg.watcher
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
