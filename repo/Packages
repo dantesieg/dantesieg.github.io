@@ -6,10 +6,10 @@ Installed-Size: 148
 Pre-Depends: firmware (>= 11.1.2)
 Depends: mobilesubstrate
 Filename: debs/com.dantesieg.ftts_1.0-1_iphoneos-arm.deb
-Size: 8530
-MD5sum: 43fccaa0adf53eadd56677a260bea0f4
-SHA1: a72c75816b1d1f159239a4d9024fbf02904de64a
-SHA256: 920a765695f833745849f6c5ec61464e7a3d1ae16bd0e52892a4cf52d90a6956
+Size: 8546
+MD5sum: b0d62f6a09ad81b81d65ad87699b1738
+SHA1: 61ef3f98385042d99862b10ee7943dca7dcef71f
+SHA256: 4b9b03b6436e02d86f02a23db7282199041819a1b095942142fe602b390e7488
 Section: Tweaks
 Description: 3DTouch your homescreen to lock your device.
 Author: dantesieg <bahadirb@me.com>
