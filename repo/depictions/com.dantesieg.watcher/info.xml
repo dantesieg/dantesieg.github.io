@@ -1,0 +1,26 @@
+<package>
+	<id>com.dantesieg.watcher</id>
+	<name>Full Package</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.1.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Forward notifications even when your device is unlocked.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Find me on Reddit!</name>
+			<url>https://www.reddit.com/u/dantesieg</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
