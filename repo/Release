@@ -1,8 +1,8 @@
-Origin: dantesieg
-Label: Repo of dantesieg
-Suite: stable #Don't touch
-Version: 1.0 #Don't touch
-Codename: ios #Don't touch
-Architectures: iphoneos-arm #Don't touch
-Components: main #Don't touch
-Description: My personal repo
+Origin: dantesieg cydia repo
+Label: dantesieg cydia repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: dantesieg personal cydia repo
