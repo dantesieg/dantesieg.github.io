@@ -2,14 +2,14 @@ Package: com.dantesieg.ftts
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: dantesieg <bahadirb@me.com>
-Installed-Size: 148
+Installed-Size: 160
 Pre-Depends: firmware (>= 11.1.2)
 Depends: mobilesubstrate
 Filename: debs/com.dantesieg.ftts_1.0-1_iphoneos-arm.deb
-Size: 8516
-MD5sum: ecc9d55fd641428e3cd2fcc6058e69b0
-SHA1: 19c349c6fb98dafc2365261bb2319943a17c4ba4
-SHA256: 8c48dad801f4a67db02288d08cad0e823604feabe547120ff2f25e881af93ca0
+Size: 13844
+MD5sum: 1815ebf1dfc85a852745feb8f934122c
+SHA1: 1348a9d447b78c12a35e4e54e5eca068af31ecc5
+SHA256: db43b89291700711d3e5f638f8d9da5eb773b3501c703e449336aacb7099cab8
 Section: Tweaks
 Description: 3DTouch your homescreen to lock your device.
 Author: dantesieg <bahadirb@me.com>
@@ -20,14 +20,14 @@ Package: com.dantesieg.happ
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: dantesieg <bahadirb@me.com>
-Installed-Size: 256
+Installed-Size: 272
 Pre-Depends: firmware (>= 11.1.2)
 Depends: mobilesubstrate
 Filename: debs/com.dantesieg.happ_1.0-1_iphoneos-arm.deb
-Size: 20292
-MD5sum: 9fe3e7ee4760caa52aa45a015cb13f03
-SHA1: d0b344725f295f191012f068f71575fc232156ea
-SHA256: f2f0ca5ee4eb38da7c175843634eb3f76090ff8ec5e73442ba2c8f5d113e0670
+Size: 24412
+MD5sum: d145099f3b18c26388034425265b4659
+SHA1: 0d3fa24e7216161ef791eada8eb97f28009eb439
+SHA256: 8c02d8732a1655e2e2ca93795e756db48aa6186e5e5f98786862f01709d30850
 Section: Tweaks
 Description: Taptic feedback for various actions.
 Author: dantesieg <bahadirb@me.com>
